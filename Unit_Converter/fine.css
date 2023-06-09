@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     }
+h1{
+    text-align: center;
+    margin-top: 40px;
+}
+#container{
+    margin: 0px auto  0px auto;
+    width: 80%;
+    text-align: center;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    padding: 150px;
+    ;
+}
+.input{
+    display:
+    
+}
+.inputn{
+    padding: 5px 10px;
+    margin: 20px ;
+    font-size: 30px;
+    font-weight: bold;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px;
+}
+.time1{
+    font-size: 20px;
+    margin-right: 20px;
+    margin-top: 200px;
+    
+    
+}
+.time2{
+    font-size: 20px;
+    
+    
+}
